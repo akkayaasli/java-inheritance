@@ -3,10 +3,10 @@ package study3;
 public class UserManager {
 
 	public void add(User student) {
-		System.out.println(student.getUserNumber()+" numaralı kullanıcı giriş yaptı.");
+		System.out.println(student.getUserNumber()+" numarali kullanici giris yapti.");
 	}
 	public void out(User student) {
-		System.out.println(student.getUserNumber()+" numaralı kullanıcı çıkış yaptı.Tekrar görüşürüz.");
+		System.out.println(student.getUserNumber()+" numarali kullanici Ã§ikis yapti.Tekrar gÃ¶rÃ¼sÃ¼rÃ¼z.");
 	}
 
 }
