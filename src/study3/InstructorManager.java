@@ -2,7 +2,7 @@ package study3;
 
 public class InstructorManager {
 	public void add(Student newStudent) {
-		System.out.println(newStudent.studentCode+" numaralı öğrenci kaydedildi.");
+		System.out.println(newStudent.studentCode+" numarali Ã¶grenci kaydedildi.");
 	}
 
 	public void addMultiple(Student[] students) {
